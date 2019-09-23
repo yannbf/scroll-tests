@@ -1,5 +1,7 @@
 {
   "name": "scrollTest",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
